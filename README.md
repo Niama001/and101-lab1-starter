@@ -10,7 +10,7 @@ Time spent: 5 hours spent in total
 
 Hello World is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: :P, -_-, <3
+If I had to describe this project in three (3) emojis, they would be: 🫨, -_-, <3
 
 ## Application Features
 
