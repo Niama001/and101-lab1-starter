@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo](https://github.com/Niama001/and101-lab1-starter/blob/963c08728a3288d927e6b55c083733046ceede42/unit1.gif)' />
 
-GIF created with **your chosen GIF tool**
+GIF created with Screen to Gif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
