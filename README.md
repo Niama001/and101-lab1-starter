@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Niama001/and101-lab1-starter/blob/0437c222edabe8a983143776d3d0f815bf0a5705/unit1.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with Screen to Gif
 
