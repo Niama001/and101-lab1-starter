@@ -47,10 +47,11 @@ GIF created with Screen to Gif
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to use Android Studio for the first time. 
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2024 Mymuna Murshed
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
